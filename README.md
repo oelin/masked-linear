@@ -7,7 +7,7 @@ Masked linear layer implementation for MADE (arXiv:1502.03509).
 ## Usage
 
 ```python
-from masked_linear import MaskedLinear, get_layer_ids
+from masked_linear import MaskedLinear
 
 linear = MaskedLinear(
   in_features=5,
