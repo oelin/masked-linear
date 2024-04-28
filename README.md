@@ -1,6 +1,6 @@
 # Masked Linear
 
-Masked linear layer implementation for MADE (arXiv:1502.03509).
+An implementation of a masked linear layer, as used by MADE.
 
 ![](https://i.ibb.co/ysq0P1w/made.png)
 
